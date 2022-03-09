@@ -3,11 +3,9 @@
 🏠 Guimarães, Portugal
 
 ## Social Media
-<div style="text-align: center;">
 [![Instagram](https://img.shields.io/badge/danielfaria1712-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/danielfaria1712)
-</div>
 
 ## Stats
 <div style="text-align: center;">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfaria89)](https://github.com/danielfaria89)
+<img src="https://github-readme-stats.vercel.app/api?username=danielfaria89&card_width=260&layout=compact&show_icons=true&hide_border=true&theme=react&include_all_commits=true)"/>
 </div>
