@@ -1,5 +1,12 @@
-### Hi there 👋
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfaria89)](https://github.com/anuraghazra/github-readme-stats)
+👋 Hello there, welcome to my GitHub
+
+🏠 Guimarães, Portugal
+---
+##Social Media
+![Instagram](https://img.shields.io/badge/danielfaria1712-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+---
+##Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfaria89)](https://github.com/danielfaria89)
 <!--
 **danielfaria89/danielfaria89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
